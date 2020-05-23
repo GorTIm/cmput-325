@@ -1,3 +1,3 @@
 # cmput-325
 
-Assignments for CMPUT 325: Non-precedural programming
+Assignments for CMPUT 325: Non-procedural programming
